@@ -150,9 +150,7 @@ I'm particularly interested in applying machine learning to engineering and real
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hisham-mashhour-22414a426)
-- 🐙 [GitHub](https://github.com/Ahmed-Hisham-ML)
 - 📧 [Email](mailto:ahmed.hisham.mashhour@gmail.com)
-- 📜 [CS50P Certificate](https://certificates.cs50.io/e23b9711-3217-4be9-a448-eed656fbef39.pdf?size=A4)
 
 ---
 
